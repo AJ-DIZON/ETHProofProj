@@ -6,6 +6,7 @@ Minting and Burning NFTs
 
 This is just a ETH PROOF: Beginner EVM Course project
 
+##Basic Intrsuction
 *Deploy the contract
 
 *Open the minting function to mint the nfts
